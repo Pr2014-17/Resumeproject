@@ -1,0 +1,32 @@
+/* Use Google Font */
+.st-font{
+    font-family: 'Satisfy', cursive;
+}
+html,body{
+    height: 100%;
+}
+.container-fluid{
+    min-height: 100%;
+}
+
+/* sevices icon color */
+.i-color{
+    color:green;
+}
+
+/* Services Subtitle Color */
+.ss-color{
+    color:silver;
+}
+a.nav-link{
+    color:whitesmoke;
+}
+a.nav-link:hover{
+    color:rgb(7, 7, 7);
+    background-color: rgb(240, 200, 71);
+}
+a.nav-link.active{
+    color:rgb(7, 7, 7);
+    background-color: rgb(240, 165, 3);
+    font-weight: bold;
+}
